@@ -2,7 +2,7 @@
 - :woman:**Heloisa Faria de Souza**;  
 - 16 anos;
 - :musical_score:	 Sou musicista, toco bateria, guitarra e ukulele;
-- :weight_lifting_woman:	Gosto de fazer atividades físicas, como academia;
+- :weight_lifting_woman:	Gosto de fazer atividades físicas, como musculação;
 - :school: estudo no Colégio Estadual Cívico-Militar Marechal Rondon;
 ### Meu Aprendizado
 - :trackball: *estou aprendendo programação, por exemplo*: 
